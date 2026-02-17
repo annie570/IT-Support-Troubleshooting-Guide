@@ -1,0 +1,19 @@
+# IT Support Troubleshooting Guide
+
+This repository contains structured troubleshooting procedures for common corporate IT issues.  
+It is designed to simulate an internal IT support knowledge base used by service desk teams.
+
+## Purpose
+To document repeatable troubleshooting processes that improve response time, consistency and service quality in corporate IT environments.
+
+## Scope
+This guide covers:
+
+- Printer connectivity issues
+- Slow computer performance
+- Network detection failures
+- Outlook email sending issues
+- WiFi connectivity problems
+
+Each article follows a structured format used in enterprise IT teams:
+Problem → Diagnosis → Resolution → Prevention → Business Impact
